@@ -72,7 +72,7 @@ a.desc:after {
     content: "\e156";
 }
 
-.grid-view td {
+.grid-view th {
     white-space: nowrap;
 }
 
@@ -97,9 +97,9 @@ a.desc:after {
 
 /* align the logout "link" (button in form) of the navbar */
 .nav > li > form {
-    padding: 8px;
+	padding: 8px;
 }
-
 .nav > li > form > button:hover {
-    text-decoration: none;
+		text-decoration: none;
+	}
 }
